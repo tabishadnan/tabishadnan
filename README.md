@@ -76,15 +76,6 @@ Here are some ideas to get you started:
 <div>
 <strong>
 
-### ⚡ Last Week Activity:
-
-</strong>
-
-<img align="center" alt="Tabish's Last Week Activity" src="https://github-readme-stats.vercel.app/api/wakatime?username=tabishadnan&hide_border=true&theme=gotham" /></div>
-
-<div>
-<strong>
-
 ### ⚡ GitHub Streak:
 
 </strong>
