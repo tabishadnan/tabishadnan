@@ -1,9 +1,5 @@
 ### Hi there... I'm Tabish Adnan 👋
 
-### My core competency lies in developing web and mobile applications using JavaScript, React and React native with firebase. I’m Front End Developer and can contribute on front-end using a wide range of technologies, and also I’m still learning Mern Stack technologies.
-
-### On the other hand, I love to exploring new technologies for which not only I rely on online resources but I also try to take part in Hekathons and community meetups. 
-
 #### 🔭 I’m currently working on:
 
 <span>
